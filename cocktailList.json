@@ -1,0 +1,20 @@
+{
+  "cocktails": [
+        {
+        "name": "Old Fashioned",
+            "link": "https://www.youtube.com/watch?v=mf1ax7y0yyI",
+            "reference": "How to Drink",
+            "ingredients": [
+            { "val": 2, "unit": "oz", "type": "Whiskey"},
+            { "val": 0.25, "unit": "oz", "type": "1.5:1 Simple Syrup"},
+            { "val": 4, "unit": "dashes", "type": "Angostura Bitters"}
+            ],           
+            "ice": "1 Large Lump",
+            "glass": "Rocks",
+            "garnish": "Express Orange Peel",
+            "directions": [
+            {"step": 1, "val": "Stir"}
+            ]
+        }
+  ]
+}
